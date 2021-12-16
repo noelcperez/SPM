@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Albums",
+        "repositoryURL": "https://github.com/noelcperez/AlbumsPackage",
+        "state": {
+          "branch": "main",
+          "revision": "cf419519305633bc62c91242e984726cbf08e86d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
